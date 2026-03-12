@@ -1,70 +1,86 @@
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--     GATE BREAK ⟋ PLAYER: NITIN MISHRA ⟋ RANK: S ⟋ AWAKENED   -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-------------------------------------------------------------------------
+   T H E   S I G N A L
+   A live transmission from the edge of what's possible.
+   OPERATOR : NITIN MISHRA  ·  FREQ : ∞  ·  STATUS : TRANSMITTING
+-------------------------------------------------------------------------->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,40:071830,80:050510,100:050510&height=300&section=header&text=NITIN%20MISHRA&fontSize=90&fontColor=4FC3F7&fontAlignY=58&animation=fadeIn&stroke=4FC3F715&strokeWidth=1&desc=S-CLASS+ARCHITECT+%7C+GenAI+%7C+The+One+Who+Ships&descSize=16&descAlignY=76&descColor=FFC107"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080C14,100:080C14&height=6" width="100%"/>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080C14,50:0A1628,100:080C14&height=280&text=NITIN+MISHRA&fontSize=78&fontColor=CAF0F8&fontAlignY=52&animation=fadeIn&desc=GenAI+Architect+%C2%B7+ML+Engineer+%C2%B7+Systems+Builder&descAlignY=70&descSize=15&descColor=00B4D855" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&duration=2200&pause=800&color=4FC3F7&center=true&vCenter=true&width=700&lines=%5BSYSTEM%5D+%3E+Unknown+entity+detected+in+the+Gate...;%5BSYSTEM%5D+%3E+Rank+scan+complete.+CONFIRMED%3A+S-CLASS;%5BSYSTEM%5D+%3E+Specialization%3A+GenAI+Architecture+%2B+Production+Systems;%5BSYSTEM%5D+%3E+WARNING+%E2%80%94+This+player+ships+to+production.;%5BSYSTEM%5D+%3E+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+PROFILE+LOADED+100%25)](https://github.com/nitinog10)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080C14,100:080C14&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4D8,100:00B4D8&height=2" width="100%"/>
 
 </div>
 
 <br>
 
+<br>
+
 ---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                 01 — PLAYER DATA                  -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ┌──────────────────────────────────────────────────────────────────────┐
+     │  PACKET 01  ·  SIGNAL  ·  WHO IS THIS                              │
+     └──────────────────────────────────────────────────────────────────────┘ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,100:0b1d35&height=58&text=%5B+PLAYER+DATA+%5D&fontSize=18&fontColor=4FC3F7&fontAlignY=70&desc=Origin+%2F%2F+Classification+%2F%2F+Current+Arc&descSize=11&descAlignY=28&descColor=FFC10799&animation=fadeIn"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080C14,100:0A1628&height=48&text=PACKET+01+%E2%80%94+SIGNAL+ORIGIN&fontSize=15&fontColor=00B4D8&fontAlignY=68&desc=Who+is+transmitting.+Why+it+matters.&descSize=10&descAlignY=26&descColor=CAF0F855" width="100%"/>
+</div>
 
 <br>
 
 <table>
 <tr>
-<td valign="top" width="58%">
+<td width="52%" valign="top">
 
-### `> entity.profile`
+<br>
 
-```yaml
-NAME        :  Nitin Mishra
-RANK        :  S-CLASS
-TITLE       :  GenAI Architect · ML Engineer
-GUILD       :  Bug Biceps          [CO-FOUNDER]
-BASE        :  Entop Learning      [INTERN]
-ORIGIN      :  Born at 3AM between a broken model
-               and a deploy that actually worked.
-STATUS      :  ⚡ AWAKENED — Currently deploying
 ```
+  TRANSMISSION LOG — ENTRY 001
+  ─────────────────────────────────────────
 
-### `> current_arc --active`
+  He was not discovered.
+  He was not trained.
 
-```diff
-+ BUILDING AT  Entop Learning — Real Education Tech
-+ MASTERING    LangChain · MCP Servers · RAG · OPENCV
+  He appeared —
+  at 03:47, on a night when the
+  model was broken, the deadline
+  was dead, and every sane person
+  had gone home.
+
+  He stayed.
+
+  At 04:12 the logs turned green.
+  At 04:13 it was live in production.
+
+  That was the moment
+  NITIN MISHRA
+  became THE ARCHITECT.
+
+  ─────────────────────────────────────────
+  ROLE      ·  GenAI Architect
+  ROLE      ·  ML Systems Engineer
+  GUILD     ·  Bug Biceps  [CO-FOUNDER]
+  BASE      ·  Entop Learning [ENGINEER]
+  RECORD    ·  0 failed deployments
+  DOCTRINE  ·  Build. Ship. Repeat.
+  ─────────────────────────────────────────
 ```
-
-### `> philosophy.read()`
-
-> *Not the kind who writes papers.*
-> *The kind who* **ships.**
 
 </td>
-<td valign="top" align="center" width="42%">
+<td width="48%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%"/>
+<br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="88%"/>
 
 <br><br>
 
-![](https://img.shields.io/badge/RANK-S--CLASS-050510?style=flat-square&labelColor=0b1d35)
-&nbsp;
-![](https://img.shields.io/badge/STATUS-AWAKENED-050510?style=flat-square&labelColor=0b1d35)
-&nbsp;
-![](https://img.shields.io/badge/DEPLOY_LOSSES-ZERO-050510?style=flat-square&labelColor=0b1d35)
+![](https://img.shields.io/badge/STATUS-TRANSMITTING-080C14?style=flat-square&labelColor=0A1628&color=080C14&logo=circle&logoColor=00B4D8)
+![](https://img.shields.io/badge/BUILDS-PRODUCTION-080C14?style=flat-square&labelColor=0A1628&color=080C14)
+![](https://img.shields.io/badge/LOSSES-ZERO-080C14?style=flat-square&labelColor=0A1628&color=080C14)
 
 </td>
 </tr>
@@ -74,90 +90,107 @@ STATUS      :  ⚡ AWAKENED — Currently deploying
 
 ---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--               02 — ABILITY REGISTER               -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ┌──────────────────────────────────────────────────────────────────────┐
+     │  PACKET 02  ·  MODULES  ·  WHAT HE CARRIES                         │
+     └──────────────────────────────────────────────────────────────────────┘ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,100:0b1d35&height=58&text=%5B+ABILITY+REGISTER+%5D&fontSize=18&fontColor=4FC3F7&fontAlignY=70&desc=Weapons+%2F%2F+Arsenal+%2F%2F+Stack+%2F%2F+Rank+Graded&descSize=11&descAlignY=28&descColor=FFC10799&animation=fadeIn"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080C14,100:0A1628&height=48&text=PACKET+02+%E2%80%94+ACTIVE+MODULES&fontSize=15&fontColor=00B4D8&fontAlignY=68&desc=What+he+carries+into+the+field.&descSize=10&descAlignY=26&descColor=CAF0F855" width="100%"/>
+</div>
+
+<br>
+
+```
+  Every tool below has been deployed in production.
+  Under pressure. When it mattered. Without failure.
+  This is not a skill list. This is a field record.
+```
 
 <br>
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**`▸ NEURAL CORE — AI / ML`**
+**`MODULE ALPHA  ─  NEURAL SYSTEMS`**
+`AI · ML · GenAI · Language Models`
 
-![Python](https://img.shields.io/badge/Python-S-050510?style=flat-square&logo=python&logoColor=4FC3F7&labelColor=071830)
-![LangChain](https://img.shields.io/badge/LangChain-S-050510?style=flat-square&logo=chainlink&logoColor=4FC3F7&labelColor=071830)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-S-050510?style=flat-square&logo=scikit-learn&logoColor=4FC3F7&labelColor=071830)
-![PyTorch](https://img.shields.io/badge/PyTorch-A-050510?style=flat-square&logo=pytorch&logoColor=4FC3F7&labelColor=071830)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-A-050510?style=flat-square&logo=tensorflow&logoColor=4FC3F7&labelColor=071830)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-A-050510?style=flat-square&logo=huggingface&logoColor=4FC3F7&labelColor=071830)
-![OpenCV](https://img.shields.io/badge/OpenCV-A-050510?style=flat-square&logo=opencv&logoColor=4FC3F7&labelColor=071830)
-![LangGraph](https://img.shields.io/badge/LangGraph-MASTERING-050510?style=flat-square&logo=graphql&logoColor=FF6B6B&labelColor=071830)
-![MLflow](https://img.shields.io/badge/MLflow-B-050510?style=flat-square&logo=mlflow&logoColor=4FC3F7&labelColor=071830)
-![MCP](https://img.shields.io/badge/MCP_Servers-MASTERING-050510?style=flat-square&logo=server&logoColor=FF6B6B&labelColor=071830)
+<br>
 
-</td>
-<td valign="top" width="50%">
-
-**`▸ IRON KEEP — BACKEND / INFRA`**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-S-050510?style=flat-square&logo=fastapi&logoColor=FFC107&labelColor=071830)
-![Docker](https://img.shields.io/badge/Docker-S-050510?style=flat-square&logo=docker&logoColor=FFC107&labelColor=071830)
-![AWS](https://img.shields.io/badge/AWS-S-050510?style=flat-square&logo=amazon-aws&logoColor=FFC107&labelColor=071830)
-![Django](https://img.shields.io/badge/Django-A-050510?style=flat-square&logo=django&logoColor=FFC107&labelColor=071830)
-![Node.js](https://img.shields.io/badge/Node.js-A-050510?style=flat-square&logo=node.js&logoColor=FFC107&labelColor=071830)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-A-050510?style=flat-square&logo=postgresql&logoColor=FFC107&labelColor=071830)
-![MongoDB](https://img.shields.io/badge/MongoDB-A-050510?style=flat-square&logo=mongodb&logoColor=FFC107&labelColor=071830)
-![GCP](https://img.shields.io/badge/GCP-A-050510?style=flat-square&logo=google-cloud&logoColor=FFC107&labelColor=071830)
+![Python](https://img.shields.io/badge/Python-MASTERED-080C14?style=flat-square&logo=python&logoColor=CAF0F8&labelColor=0A1628)
+![LangChain](https://img.shields.io/badge/LangChain-MASTERED-080C14?style=flat-square&logo=chainlink&logoColor=CAF0F8&labelColor=0A1628)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-MASTERED-080C14?style=flat-square&logo=scikitlearn&logoColor=CAF0F8&labelColor=0A1628)
+![PyTorch](https://img.shields.io/badge/PyTorch-EXPERT-080C14?style=flat-square&logo=pytorch&logoColor=00B4D8&labelColor=0A1628)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-EXPERT-080C14?style=flat-square&logo=tensorflow&logoColor=00B4D8&labelColor=0A1628)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-EXPERT-080C14?style=flat-square&logo=huggingface&logoColor=00B4D8&labelColor=0A1628)
+![OpenCV](https://img.shields.io/badge/OpenCV-EXPERT-080C14?style=flat-square&logo=opencv&logoColor=00B4D8&labelColor=0A1628)
+![MLflow](https://img.shields.io/badge/MLflow-ADVANCED-080C14?style=flat-square&logo=mlflow&logoColor=4FC3F7&labelColor=0A1628)
+![LangGraph](https://img.shields.io/badge/LangGraph-ASCENDING-080C14?style=flat-square&logo=graphql&logoColor=4FC3F7&labelColor=0A1628)
+![MCP](https://img.shields.io/badge/MCP_Servers-ASCENDING-080C14?style=flat-square&logo=server&logoColor=4FC3F7&labelColor=0A1628)
 
 </td>
-</tr>
-<tr>
-<td colspan="2" align="center">
+<td width="50%" valign="top">
 
-**`▸ SHADOW FRONT — FRONTEND`**
+**`MODULE BETA  ─  INFRASTRUCTURE`**
+`Backend · Cloud · Databases · APIs`
 
-![React](https://img.shields.io/badge/React-S-050510?style=flat-square&logo=react&logoColor=B39DDB&labelColor=071830)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-S-050510?style=flat-square&logo=tailwindcss&logoColor=B39DDB&labelColor=071830)
-![Next.js](https://img.shields.io/badge/Next.js-A-050510?style=flat-square&logo=next.js&logoColor=B39DDB&labelColor=071830)
-![TypeScript](https://img.shields.io/badge/TypeScript-A-050510?style=flat-square&logo=typescript&logoColor=B39DDB&labelColor=071830)
-![Three.js](https://img.shields.io/badge/Three.js-B-050510?style=flat-square&logo=three.js&logoColor=B39DDB&labelColor=071830)
+<br>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-MASTERED-080C14?style=flat-square&logo=fastapi&logoColor=CAF0F8&labelColor=0A1628)
+![Docker](https://img.shields.io/badge/Docker-MASTERED-080C14?style=flat-square&logo=docker&logoColor=CAF0F8&labelColor=0A1628)
+![AWS](https://img.shields.io/badge/AWS-MASTERED-080C14?style=flat-square&logo=amazonaws&logoColor=CAF0F8&labelColor=0A1628)
+![Django](https://img.shields.io/badge/Django-EXPERT-080C14?style=flat-square&logo=django&logoColor=00B4D8&labelColor=0A1628)
+![Node.js](https://img.shields.io/badge/Node.js-EXPERT-080C14?style=flat-square&logo=nodedotjs&logoColor=00B4D8&labelColor=0A1628)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EXPERT-080C14?style=flat-square&logo=postgresql&logoColor=00B4D8&labelColor=0A1628)
+![MongoDB](https://img.shields.io/badge/MongoDB-EXPERT-080C14?style=flat-square&logo=mongodb&logoColor=00B4D8&labelColor=0A1628)
+![GCP](https://img.shields.io/badge/GCP-EXPERT-080C14?style=flat-square&logo=googlecloud&logoColor=00B4D8&labelColor=0A1628)
+
+**`MODULE GAMMA  ─  INTERFACES`**
+`Frontend · UI · Web`
+
+<br>
+
+![React](https://img.shields.io/badge/React-MASTERED-080C14?style=flat-square&logo=react&logoColor=CAF0F8&labelColor=0A1628)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-MASTERED-080C14?style=flat-square&logo=tailwindcss&logoColor=CAF0F8&labelColor=0A1628)
+![Next.js](https://img.shields.io/badge/Next.js-EXPERT-080C14?style=flat-square&logo=nextdotjs&logoColor=00B4D8&labelColor=0A1628)
+![TypeScript](https://img.shields.io/badge/TypeScript-EXPERT-080C14?style=flat-square&logo=typescript&logoColor=00B4D8&labelColor=0A1628)
+![Three.js](https://img.shields.io/badge/Three.js-ADVANCED-080C14?style=flat-square&logo=threedotjs&logoColor=4FC3F7&labelColor=0A1628)
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-`S` **Mastered** &nbsp;&nbsp;·&nbsp;&nbsp; `A` **Expert** &nbsp;&nbsp;·&nbsp;&nbsp; `B` **Advanced** &nbsp;&nbsp;·&nbsp;&nbsp; `MASTERING` **Currently Awakening**
-
-</div>
-
 <br>
 
 ---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                03 — ACTIVE QUESTS                 -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ┌──────────────────────────────────────────────────────────────────────┐
+     │  PACKET 03  ·  OPERATIONS  ·  WHAT IS CURRENTLY BEING BUILT        │
+     └──────────────────────────────────────────────────────────────────────┘ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,100:0b1d35&height=58&text=%5B+ACTIVE+QUESTS+%5D&fontSize=18&fontColor=4FC3F7&fontAlignY=70&desc=Current+Arcs+%2F%2F+Season+1+%2F%2F+Priority+Ranked&descSize=11&descAlignY=28&descColor=FFC10799&animation=fadeIn"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080C14,100:0A1628&height=48&text=PACKET+03+%E2%80%94+LIVE+OPERATIONS&fontSize=15&fontColor=00B4D8&fontAlignY=68&desc=What+is+being+built+right+now.+Six+fronts.+All+open.&descSize=10&descAlignY=26&descColor=CAF0F855" width="100%"/>
+</div>
+
+<br>
+
+```
+  "Most people pick one thing and do it well.
+   He picked six. And none of them are losing."
+```
 
 <br>
 
 <div align="center">
 
-| ◈ | Quest | Status | Season |
+| `SIGNAL` | OPERATION | TRANSMISSION | SEASON |
 |:---:|:---|:---:|:---:|
-| `S` | **MCP Server Architecture** — *"The Grid Awakens"* | 🔴 `FINAL BOSS` | S · 1 |
-| `A` | **LangGraph Multi-Agent Systems** | 🟣 `ACTIVE` | S · 1 |
-| `A` | **Advanced RAG + Vector Search** | 🟡 `POWER-UP` | S · 1 |
-| `A` | **Real-time Computer Vision** | 🟣 `ACTIVE` | S · 1 |
-| `B` | **LLM Fine-tuning at Scale** | 🔵 `TRAINING ARC` | S · 2 |
-| `S` | **Bug Biceps Studio Launch** | 🟢 `CLIMAX` | S · 1 |
+| 🔴 `S·PRIME` | **MCP Server Architecture** — *The Grid* | `FINAL STAGE` | Ⅰ |
+| 🔵 `A·1` | **LangGraph Multi-Agent Systems** | `ACTIVE` | Ⅰ |
+| 🔵 `A·2` | **Advanced RAG + Vector Search** | `SURGING` | Ⅰ |
+| 🔵 `A·3` | **Real-time Computer Vision** | `ACTIVE` | Ⅰ |
+| ⚪ `B·1` | **LLM Fine-tuning at Scale** | `TRAINING` | Ⅱ |
+| 🟢 `S·2` | **Bug Biceps — AI Production Studio** | `FINAL APPROACH` | Ⅰ |
 
 </div>
 
@@ -165,43 +198,45 @@ STATUS      :  ⚡ AWAKENED — Currently deploying
 
 ---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--               04 — BATTLE RECORDS                 -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ┌──────────────────────────────────────────────────────────────────────┐
+     │  PACKET 04  ·  TELEMETRY  ·  THE DATA                              │
+     └──────────────────────────────────────────────────────────────────────┘ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,100:0b1d35&height=58&text=%5B+BATTLE+RECORDS+%5D&fontSize=18&fontColor=4FC3F7&fontAlignY=70&desc=GitHub+Stats+%2F%2F+Streak+%2F%2F+Commit+History&descSize=11&descAlignY=28&descColor=FFC10799&animation=fadeIn"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080C14,100:0A1628&height=48&text=PACKET+04+%E2%80%94+TELEMETRY&fontSize=15&fontColor=00B4D8&fontAlignY=68&desc=The+data+does+not+lie.&descSize=10&descAlignY=26&descColor=CAF0F855" width="100%"/>
+</div>
 
 <br>
 
 <div align="center">
 
 <a href="https://github.com/nitinog10">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nitinog10&show_icons=true&bg_color=050510&border_color=4FC3F725&title_color=4FC3F7&icon_color=FFC107&text_color=78909C&hide_border=false&count_private=true&rank_icon=github&include_all_commits=true"/>
+  <img height="172" src="https://github-readme-stats.vercel.app/api?username=nitinog10&show_icons=true&bg_color=080C14&border_color=00B4D820&title_color=CAF0F8&icon_color=00B4D8&text_color=607D8B&hide_border=false&count_private=true&rank_icon=github&include_all_commits=true"/>
 </a>&nbsp;
 <a href="https://github.com/nitinog10">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinog10&layout=compact&bg_color=050510&border_color=4FC3F725&title_color=4FC3F7&text_color=78909C&hide_border=false&langs_count=8"/>
+  <img height="172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinog10&layout=compact&bg_color=080C14&border_color=00B4D820&title_color=CAF0F8&text_color=607D8B&hide_border=false&langs_count=8"/>
 </a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinog10&background=050510&border=4FC3F725&stroke=4FC3F7&ring=FFC107&fire=FF1744&currStreakNum=4FC3F7&sideNums=78909C&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=455060" width="680"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinog10&background=080C14&border=00B4D820&stroke=00B4D8&ring=CAF0F8&fire=00B4D8&currStreakNum=CAF0F8&sideNums=607D8B&currStreakLabel=00B4D8&sideLabels=00B4D8&dates=37474F" width="680"/>
 
 <br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=nitinog10&theme=darkhub&no-frame=true&row=1&column=7&margin-w=6"/>
 
-</div>
-
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinog10&bg_color=050510&color=4FC3F7&line=FFC107&point=FF1744&area=true&area_color=4FC3F710&hide_border=true&custom_title=COMMIT%20TRAIL%20%2F%2F%20DEPLOYMENT%20HISTORY" width="100%"/>
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinog10&bg_color=080C14&color=00B4D8&line=CAF0F8&point=00B4D8&area=true&area_color=00B4D810&hide_border=true&custom_title=TRANSMISSION+LOG+%E2%80%94+EVERY+COMMIT+IS+A+SIGNAL+SENT" width="100%"/>
 
 <br>
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitinog10/nitinog10/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/nitinog10/nitinog10/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+  <img src="https://raw.githubusercontent.com/nitinog10/nitinog10/output/github-contribution-grid-snake-dark.svg" width="96%"/>
 </picture>
 </div>
 
@@ -209,30 +244,42 @@ STATUS      :  ⚡ AWAKENED — Currently deploying
 
 ---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                05 — SIGNAL TRACE                  -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ┌──────────────────────────────────────────────────────────────────────┐
+     │  PACKET 05  ·  ENDPOINTS  ·  HOW TO REACH HIM                      │
+     └──────────────────────────────────────────────────────────────────────┘ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,100:0b1d35&height=58&text=%5B+SIGNAL+TRACE+%5D&fontSize=18&fontColor=4FC3F7&fontAlignY=70&desc=Locate+This+Entity+Across+All+Networks&descSize=11&descAlignY=28&descColor=FFC10799&animation=fadeIn"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080C14,100:0A1628&height=48&text=PACKET+05+%E2%80%94+SIGNAL+ENDPOINTS&fontSize=15&fontColor=00B4D8&fontAlignY=68&desc=How+to+reach+the+operator.&descSize=10&descAlignY=26&descColor=CAF0F855" width="100%"/>
+</div>
+
+<br>
+
+```
+  He responds to builders.
+  Here is where to find him.
+```
 
 <br>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/NEURAL%20HUB-nitinn.dev-050510?style=for-the-badge&logo=vercel&logoColor=4FC3F7&labelColor=071830)](https://nitinn.dev/)
-[![Email](https://img.shields.io/badge/TRANSMIT-Gmail-050510?style=for-the-badge&logo=gmail&logoColor=FF1744&labelColor=071830)](mailto:nitiniszod10@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/NETWORK%20NODE-LinkedIn-050510?style=for-the-badge&logo=linkedin&logoColor=4FC3F7&labelColor=071830)](https://linkedin.com/in/nitin-kumar-mishra-520615331)
-[![Instagram](https://img.shields.io/badge/BROADCAST-%40nitinn10__-050510?style=for-the-badge&logo=instagram&logoColor=FFC107&labelColor=071830)](https://instagram.com/nitinn10_)
+[![Portfolio](https://img.shields.io/badge/nitinn.dev-PORTFOLIO-080C14?style=for-the-badge&logo=vercel&logoColor=CAF0F8&labelColor=0A1628)](https://nitinn.dev/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-DIRECT-080C14?style=for-the-badge&logo=gmail&logoColor=CAF0F8&labelColor=0A1628)](mailto:nitiniszod10@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NETWORK-080C14?style=for-the-badge&logo=linkedin&logoColor=CAF0F8&labelColor=0A1628)](https://linkedin.com/in/nitin-kumar-mishra-520615331)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/@nitinn10__-OPEN-080C14?style=for-the-badge&logo=instagram&logoColor=CAF0F8&labelColor=0A1628)](https://instagram.com/nitinn10_)
 
 <br>
 
-[![Bug Biceps](https://img.shields.io/badge/%F0%9F%A6%BE%20GUILD%20BASE-bugbiceps.in%20%E2%80%94%20AI%20Production%20Studio-050510?style=for-the-badge&labelColor=071830&color=050510)](https://bugbiceps.in)
+[![BugBiceps](https://img.shields.io/badge/%F0%9F%A6%BE%20Bug%20Biceps%20%E2%80%94%20AI%20Production%20Studio%20%E2%80%94%20bugbiceps.in-080C14?style=for-the-badge&labelColor=0A1628)](https://bugbiceps.in)
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=nitinog10&color=4FC3F7&style=flat-square&label=SOULS+ENCOUNTERED)
-&nbsp;&nbsp;&nbsp;
-![Followers](https://img.shields.io/github/followers/nitinog10?label=ALLIED+PLAYERS&style=flat-square&color=FFC107&labelColor=050510)
+![](https://komarev.com/ghpvc/?username=nitinog10&color=00B4D8&style=flat-square&label=SIGNALS+RECEIVED)
+&nbsp;&nbsp;
+![](https://img.shields.io/github/followers/nitinog10?label=FOLLOWING+THE+SIGNAL&style=flat-square&color=00B4D8&labelColor=080C14)
 
 </div>
 
@@ -240,18 +287,40 @@ STATUS      :  ⚡ AWAKENED — Currently deploying
 
 ---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--              CLOSING TRANSMISSION                 -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ─────────────────────────  END TRANSMISSION  ───────────────────────── -->
 
 <div align="center">
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=13&duration=3500&pause=2500&color=4FC3F760&center=true&vCenter=true&width=700&lines=%5BSYSTEM%5D+%3E+Closing+transmission+for+UNIT%3A+NITIN+MISHRA...;%22The+training+arc+ended.+Production+is+the+final+boss.%22;%22Models+are+easy.+Systems+are+hard.+I+never+lost+a+deploy.%22;%5BSYSTEM%5D+%3E+Season+1+complete.+Season+2+%E2%80%94+INCOMING...;%5BSYSTEM%5D+%3E+This+arc+is+not+over.+%E2%96%8C)](https://github.com/nitinog10)
+```
+  ─────────────────────────────────────────────────────────────────────
+
+  END OF TRANSMISSION  ·  CASE : NM–∞
+
+  "The training arc is over.
+   Production is the final boss.
+   Models are easy. Systems are hard.
+   I do the hard part.
+   And I have never lost a deploy."
+
+                                       — Nitin Mishra
+
+  SEASON Ⅰ  ·  CLOSING.
+  SEASON Ⅱ  ·  INCOMING.
+
+  Signal will resume.
+
+  ─────────────────────────────────────────────────────────────────────
+```
 
 <br>
 
+[![](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=4000&pause=2500&color=00B4D840&center=true&vCenter=true&width=600&lines=transmission+end.+%E2%96%8C;signal+strong.+standing+by.;this+arc+is+not+over.)](https://github.com/nitinog10)
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,50:071830,100:050510&height=120&section=footer&animation=fadeIn"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4D8,100:00B4D8&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080C14,100:080C14&height=40&text=THE+SIGNAL+%C2%B7+NITIN+MISHRA+%C2%B7+TRANSMISSION+ONGOING&fontSize=11&fontColor=00B4D840&fontAlignY=62" width="100%"/>
