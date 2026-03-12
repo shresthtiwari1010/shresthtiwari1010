@@ -5,7 +5,7 @@
 
 ```
 ╔════════════════════════════════════════════════════════════╗
-║  C++ SYSTEM BUILDER | PYTHON POLYMATH | GENAI ARCHITECT   ║
+║  C++ SYSTEM BUILDER | PYTHON POLYMATH | GENAI ARCHITECT    ║
 ║                                                            ║
 ║       Shipping Code • Solving Problems • Learning Fast     ║
 ╚════════════════════════════════════════════════════════════╝
@@ -263,16 +263,16 @@ Never stops
 ║                  MASTERY PROGRESSION                      ║
 ╠═══════════════════════════════════════════════════════════╣
 ║                                                           ║
-║  Cursor              ▰▰▰▰▰▰▰▰▰▰ Production-Grade         ║
-║  Claude Code         ▰▰▰▰▰▰▰▰▰▰ Deep Solve              ║
-║  Windsurf            ▰▰▰▰▰▰▰▰▰░ Agentic Flows           ║
-║  N8N                 ▰▰▰▰▰▰▰▰▰░ Automation Guru         ║
-║  Vercel              ▰▰▰▰▰▰▰▰▰░ Instant Deploy         ║
-║  Python              ▰▰▰▰▰▰▰▰▰░ ML Developer           ║
-║  C++                 ▰▰▰▰▰▰▰▰░░ Systems Pro            ║
-║  Git/GitHub          ▰▰▰▰▰▰▰▰▰▰ Collab Expert         ║
-║  FastAPI             ▰▰▰▰▰▰▰▰░░ Backend Builder        ║
-║  LangChain           ▰▰▰▰▰▰▰▰░░ LLM Integrator        ║
+║  Cursor              ▰▰▰▰▰▰▰▰▰▰ Production-Grade  ║
+║  Claude Code         ▰▰▰▰▰▰▰▰▰▰ Deep Solve        ║
+║  Windsurf            ▰▰▰▰▰▰▰▰▰░ Agentic Flows      ║
+║  N8N                 ▰▰▰▰▰▰▰▰▰░ Automation         ║
+║  Vercel              ▰▰▰▰▰▰▰▰▰░ Instant Deploy     ║
+║  Python              ▰▰▰▰▰▰▰▰▰░ ML Developer       ║
+║  C++                 ▰▰▰▰▰▰▰▰░░ Systems Pro         ║
+║  Git/GitHub          ▰▰▰▰▰▰▰▰▰▰ Collab Expert     ║
+║  FastAPI             ▰▰▰▰▰▰▰▰░░ Backend Builder     ║
+║  LangChain           ▰▰▰▰▰▰▰▰░░ LLM Integrator      ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
